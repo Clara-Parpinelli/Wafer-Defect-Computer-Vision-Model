@@ -67,21 +67,21 @@ desempenho, análise crítica e conclusões. -->
 
 ![Comparação entre modelos](imgs/comparacao_modelos.png)
 
-Figura: comparação visual do desempenho dos modelos avaliados, incluindo as versões YOLOv8 Small, Medium e Large, além do modelo RT-DETR/Transformer e do U-Net.
+Figura: comparação visual do desempenho dos modelos avaliados, incluindo as versões YOLO26 Small, Medium e Large, além do modelo RT-DETR/Transformer e do U-Net.
 
 ### Matrizes de confusão
 
-#### YOLOv8 Small
+#### YOLO26 Small
 
-![Matriz de confusão - YOLOv8 Small](imgs/matriz-small.png)
+![Matriz de confusão - YOLO26 Small](imgs/matriz-small.png)
 
-#### YOLOv8 Medium
+#### YOLO26 Medium
 
-![Matriz de confusão - YOLOv8 Medium](imgs/matriz-medium.png)
+![Matriz de confusão - YOLO26 Medium](imgs/matriz-medium.png)
 
-#### YOLOv8 Large
+#### YOLO26 Large
 
-![Matriz de confusão - YOLOv8 Large](imgs/matriz-large.png)
+![Matriz de confusão - YOLO26 Large](imgs/matriz-large.png)
 
 #### RT-DETR / Transformer
 
