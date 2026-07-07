@@ -60,3 +60,36 @@ Para combater o desbalanceamento de classes e a alta similaridade entre defeitos
 # Resultados:
 <!-- Resultados: Apresentação dos resultados obtidos, incluindo métricas de
 desempenho, análise crítica e conclusões. -->
+
+## Imagens do projeto
+
+### Comparação entre modelos
+
+![Comparação entre modelos](imgs/comparacao_modelos.png)
+
+Figura: comparação visual do desempenho dos modelos avaliados, incluindo as versões YOLOv8 Small, Medium e Large, além do modelo RT-DETR/Transformer e do U-Net.
+
+### Matrizes de confusão
+
+#### YOLOv8 Small
+
+![Matriz de confusão - YOLOv8 Small](imgs/matriz-small.png)
+
+#### YOLOv8 Medium
+
+![Matriz de confusão - YOLOv8 Medium](imgs/matriz-medium.png)
+
+#### YOLOv8 Large
+
+![Matriz de confusão - YOLOv8 Large](imgs/matriz-large.png)
+
+#### RT-DETR / Transformer
+
+![Matriz de confusão - RT-DETR / Transformer](imgs/matriz-transformer.png)
+
+### Curva de perda de treinamento
+
+![Perda de treinamento](imgs/perda_treinamento.png)
+
+Figura: evolução da perda durante o treinamento do modelo principal utilizado no projeto.
+
